@@ -1,6 +1,5 @@
 # Heart-Failure-Analysis
 Heart failure analysis using different machine learning models with UI.
-- Website : [click here](https://heart-failure-analysis-15.herokuapp.com/)
 
 ## The UI for streamlit web app is displayed below
 
